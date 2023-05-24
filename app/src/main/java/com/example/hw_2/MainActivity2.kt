@@ -13,6 +13,7 @@ class MainActivity2 : AppCompatActivity() {
         binding = ActicityMain2Binding.inflate(layoutInflater)
         setContentView(binding.root)
         getData()
+        //
     }
 
     private fun getData() {
